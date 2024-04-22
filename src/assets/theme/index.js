@@ -1,7 +1,7 @@
 const theme = {
   color: {
     primaryColor: "#ff385c",
-    secondColor: "#00848A"
+    secondaryColor: "#00848A"
   },
 
   text: {

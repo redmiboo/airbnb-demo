@@ -4,7 +4,7 @@
 
 #### 使用说明
 
-1.  npm -i
+1.  npm i
 2.  npm run start
 
 #### 参与贡献
